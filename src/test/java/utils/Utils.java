@@ -31,5 +31,4 @@ public class Utils {
 		scenario.embed(screenshot, "image/png");
 	}
 	
-
 }
